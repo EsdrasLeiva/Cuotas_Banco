@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Loan Installments</string>
+
+    <string name="textInforma">Enter the following data</string>
+
+
+    <string name="edit1">Loan Amount</string>
+    <string name="edit2">Amount of years to pay</string>
+    <string name="text1">Loan Amount</string>
+    <string name="text2">Amount of years to pay</string>
+    <string name="text4">Loan Information</string>
+    <string name="text5">Loan Amount: </string>
+    <string name="text6"></string>
+    <string name="text7">Number of years to pay: </string>
+    <string name="text8"></string>
+    <string name="text9">End Date Payment: </string>
+    <string name="text10"></string>
+    <string name="loan11">Loan Type: </string>
+    <string name="text12"></string>
+    <string name="loan13">Adjusted Amount: </string>
+    <string name="text14"></string>
+    <string name="loan15">Interest amount: </string>
+    <string name="text16"></string>
+    <string name="loan17">Total amount receivable: </string>
+    <string name="text18"></string>
+    <string name="loan19">Monthly Fee: </string>
+    <string name="text20"></string>
+    <string name="text21">To quote</string>
+</resources>
